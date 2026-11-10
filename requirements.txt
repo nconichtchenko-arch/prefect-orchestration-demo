@@ -1,0 +1,3 @@
+prefect
+pandas
+psycopg2-binary
