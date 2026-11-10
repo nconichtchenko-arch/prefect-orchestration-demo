@@ -5,6 +5,7 @@ Pet-проект: оркестрация ETL-пайплайна с исполь�
 ## 📸 Скриншот
 
 **Граф выполнения Flow (Extract → Transform → Load):**
+
 ![Prefect Flow](assets/prefect_flow.png)
 
 ## 🎯 Зачем это
